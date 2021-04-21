@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/cypress-io/cypress/develop/cli/schema/cypress.schema.json",
+    "baseUrl": "https://reqres.in/api/",
+    "watchForFileChanges": true,
+    "defaultTimeout": 10000,
+    "pageLoadTimeout": 12000,
+    "defaultCommandTimeout": 8000,
+    "viewportWidth": 1280,
+    "viewportHeight": 720,
+    "env": {
+        "user": "eve.holt@reqres.in",
+        "password": "cityslicka",
+        "token": "QpwL5tke4Pnpja7X4"
+    }
+}
